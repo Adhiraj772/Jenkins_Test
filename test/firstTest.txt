@@ -1,1 +1,2 @@
-This is first test here
+This is first test here.
+Added new line here.
